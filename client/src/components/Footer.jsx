@@ -57,21 +57,13 @@ function Footer() {
             <br />
             <br />
             <p className='rights-text'>
-              Copyright © 2024 Created By The Imposters team, All Rights
+              Copyright © 2024 Created By The Algo rhythm team, All Rights
               Reserved.
             </p>
+           
+            
             <br />
-            <p>
-              <img src={location} /> EPI Digital School <br />
-              Route de Ceinture, Sahloul Sousse 4021
-            </p>
-            <br />
-            <p>
-              <img src={phone} /> +216 98787771
-              <br />
-              <img src={mail} />
-              &nbsp; TheImposters24@gmail.com
-            </p>
+            
           </div>
           <div className='right-col'>
             <h1 style={{ color: '#fff' }}>Our Newsletter</h1>
