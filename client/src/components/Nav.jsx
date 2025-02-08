@@ -38,12 +38,7 @@ function Nav() {
               of revising as fun as possible.
             </p>
             <h5>
-              We see that the revision for exams or even preparing flashcards as
-              a game that the learner is the main character in, we get to know
-              his level by asking him questions about the topic that he
-              introduced, we tell him where he were mistaken and we give him the
-              explanation to the right answer and a summary that focuses on his
-              points of weakness.
+              The AI Quiz Generator is a web application designed to automatically generate relevant questions from the content of a PDF document. It provides an interactive user interface that enables users to upload PDFs and generate different types of questions based on the extracted text.
             </h5>
             <div className='play'>
               <img src={play} alt='play' />
